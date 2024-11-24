@@ -488,6 +488,7 @@ it:
       settings: Impostazioni
       logout: Esci
       code: Codice
+      toggle_navigation: "Attiva/disattiva navigazione"
     application:
       powered_by: POWERED BY DIASPORA*
       whats_new: Novità?
@@ -984,3 +985,4 @@ it:
     registrations: Registrazioni
     enabled: Disponibile
     disabled: Non disponibile
+
